@@ -2,7 +2,7 @@ import Foundation
 
 enum SkyFarmAppLinks {
     static let privacyPolicy = URL(
-        string: "https://docs.google.com/document/d/137kLCLXBifwzudIhs_xse-VDIjz0MDyqoqs6E3jrZuc/edit?usp=sharing"
+        string: "https://featherwindisles.com/privacy-policy.html"
     )!
 
     static let termsOfUse = URL(
